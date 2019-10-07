@@ -1,8 +1,8 @@
 # colorpal
-A lightweight script to extract color palettes from an image
+A lightweight script to extract a color palette from an image
 
-<img src="test-images/crait2.jpg" width="400">
-<img src="test-images/figure_1.png" width="400">
+<img src="test-images/crait2.jpg" width="750">
+<img src="test-images/figure_1.png" width="750">
 
 ## Requirements
 ```
