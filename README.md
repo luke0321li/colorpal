@@ -3,7 +3,6 @@ A lightweight script to extract a color palette from an image
 
 <img src="test-images/crait2.jpg" width="750">
 <img src="test-images/figure_1.png" width="750">
-
 ## Requirements
 ```
 matplotlib==1.5.3
